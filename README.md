@@ -3,7 +3,7 @@
 Um quiz interativo no terminal com 3 perguntas sobre o universo do Homem-Aranha.
 Este projeto foi desenvolvido com JavaScript utilizando o módulo readline do Node.js para praticar lógica de programação e interação via terminal.
 
-# Técnologias Utilizadas
+# Tecnologias Utilizadas
 JavaScript
 Node.js
 Módulo readline
@@ -40,6 +40,7 @@ Melhorar a experiência do usuário no terminal.
 
 #Objetivo do Projeto
 Este projeto foi desenvolvido com o objetivo de praticar JavaScript no ambiente Node.js, reforçando conceitos fundamentais de lógica e interação via terminal.
+
 
 
 
