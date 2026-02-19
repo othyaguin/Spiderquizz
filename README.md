@@ -17,7 +17,7 @@ https://nodejs.org/
 Clone o repositório
 git clone https://github.com/seu-usuario/seu-repositorio.git
 
-Execute o quiz
+Execute o quiz usando o código abaixo
 node quiz.js
 
 
@@ -40,6 +40,7 @@ Melhorar a experiência do usuário no terminal.
 
 #Objetivo do Projeto
 Este projeto foi desenvolvido com o objetivo de praticar JavaScript no ambiente Node.js, reforçando conceitos fundamentais de lógica e interação via terminal.
+
 
 
 
